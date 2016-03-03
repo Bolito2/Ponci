@@ -1,0 +1,9 @@
+lastUpgrade=00930
+proj.AppId=1059885408909
+and.BundleId=com.Bolito2.Ponci
+proj.classDir=Assets
+proj.ConstantsClassName=Ponci
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e1059885408909%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.Bolito2.Ponci%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_welcome%22%3eCgkIjcXfsOweEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=1059885408909-2u4nr1spco8rpk0o6fa5pfmuv4t30kq2.apps.googleusercontent.com
+proj.requireGPlus=false
+android.SetupDone=true
